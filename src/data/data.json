@@ -1,0 +1,101 @@
+[
+    {
+        "id": "01",
+        "url": "",
+        "name": "Žaliosios vynuogės",
+        "description": "Žaliosios besėklės vynuogės, fasuotos, 500 g",
+        "price": 3.38,
+        "amount": 500,
+        "unit": "g",
+        "category": "Vaisiai ir daržovės",
+        "image": "zaliosios-besekles-vynuoges-7995.png"
+    },
+    {
+        "id": "02",
+        "url": "",
+        "name": "Kiviai",
+        "description": "Kiviai, 1 kg",
+        "price": 1.69,
+        "amount": 1,
+        "unit": "kg",
+        "category": "Vaisiai ir daržovės",
+        "image": "kiviai-2535.png"
+    },
+    {
+        "id": "03",
+        "url": "",
+        "name": "Tamsiosios slyvos",
+        "description": "Tamsiosios slyvos, 1 kg",
+        "price": 1.49,
+        "amount": 1,
+        "unit": "kg",
+        "category": "Vaisiai ir daržovės",
+        "image": "tamsiosios-slyvos-7303.png"
+    },
+    {
+        "id": "04",
+        "url": "",
+        "name": "UAT pienas FARM MILK",
+        "description": "UAT pienas FARM MILK, 2 % rieb., 2 pak. x 1 l",
+        "price": 1.00,
+        "amount": 2,
+        "unit": "l",
+        "category": "Pieno gaminiai ir kiaušiniai",
+        "image": "uat-pienas-farm-milk-7583.png"
+    },
+    {
+        "id": "05",
+        "url": "",
+        "name": "Kamembero sūris",
+        "description": "Kamembero sūris grilinti PRESIDENT, 1 pak. (2 vnt. x 90 g)",
+        "price": 1.39,
+        "amount": 180,
+        "unit": "g",
+        "category": "Pieno gaminiai ir kiaušiniai",
+        "image": "kamembero-suris-grilinti-president-4874.png"
+    },
+    {
+        "id": "06",
+        "url": "",
+        "name": "SMETONIŠKAS sviestas",
+        "description": "SMETONIŠKAS sviestas, 82 % rieb., 200 g",
+        "price": 1.59,
+        "amount": 200,
+        "unit": "g",
+        "category": "Pieno gaminiai ir kiaušiniai",
+        "image": "smetoniskas-sviestas-2923.png"
+    },
+    {
+        "id": "07",
+        "url": "",
+        "name": "Gazuotas mineralinis vanduo SAN PELLEGRINO",
+        "description": "Gazuotas mineralinis vanduo SAN PELLEGRINO, 6 but. x 1 l",
+        "price": 4.99,
+        "amount": 6,
+        "unit": "l",
+        "category": "Gėrimai",
+        "image": "gazuotas-mineralinis-vanduo-san-pellegrino-8027.png"
+    },
+    {
+        "id": "08",
+        "url": "",
+        "name": "Įvairių vaisių nektaras GRANINI",
+        "description": "Įvairių vaisių nektaras GRANINI, 1 l",
+        "price": 1.29,
+        "amount": 1,
+        "unit": "l",
+        "category": "Gėrimai",
+        "image": "vairiu-vaisiu-nektaras-granini-4516.png"
+    },
+    {
+        "id": "09",
+        "url": "",
+        "name": "Gazuotas gėrimas COCA COLA",
+        "description": "Gazuotas gėrimas COCA COLA; COCA COLA ZERO, 2 rūšių, 2 but. x 1,5 l",
+        "price": 1.59,
+        "amount": 1.5,
+        "unit": "l",
+        "category": "Gėrimai",
+        "image": "gazuotas-gerimas-coca-cola-coca-cola-zero-5766.png"
+    }
+]
