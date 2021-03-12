@@ -1,6 +1,6 @@
 export default function DivCard(props) {
     const { itemData } = props;
-    const { id, url, name, description, price, amount, unit, category, image } = itemData;
+    const { description, price, amount, unit, category, image } = itemData;
 
 
     return (
